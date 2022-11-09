@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="title_text">Tip Calculator</string>
+    <string name="input_hint">Cost of meal:</string>
+    <string name="button_text">Calculate</string>
+    <string name="back_button">Back</string>
+    <string name="result_text">Result:</string>
+
+    <string-array name="percentage_options">
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>25%</item>
+    </string-array>
+</resources>
